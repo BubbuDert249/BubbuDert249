@@ -1,8 +1,10 @@
-Hi! I'm Bubbu Dert!
-<hr>
-I'm good at coding XML and HTML <br>
-I'm a little bad in animating <br>
-I play roblox <br>
-yes youtube gaming: https://www.youtube.com/channel/UCdSD89zmVjgbE6Wi9dx-JZg <br>
-youtube main: https://www.youtube.com/@bubbuvanpelt2491 <br>
-youtube main 2: https://www.youtube.com/@bubbu249 <br>
+I create apps for: <br>
+- Firefox OS <br>
+- KaiOS <br>
+- Tizen (Web only) <br>
+- TV webOS <br>
+- BlackBerry OS <br>
+- Java ME <br>
+And more <br>
+NOTE: These apps that i create are unsigned, no signed apps will be released <br>
+By that, All OS's require Dev mode and BlackBerry OS must be under 10  <br>
