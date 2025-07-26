@@ -1,4 +1,4 @@
-Email me i will or will not make a app for you <br>
+Contact me and i will or will not make a app for you <br>
 I create apps for: <br>
 - Firefox OS <br>
 - KaiOS <br>
